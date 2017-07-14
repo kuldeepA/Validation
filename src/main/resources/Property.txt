@@ -1,0 +1,32 @@
+	## no Column merger field here ##
+	
+Row  = Column
+3		R	Date
+4		R	Date
+5		R
+6		R
+7		R
+17		H
+20		H-I		J-K		L-M
+21		H-I		J-K		L-M
+22		H-I		J-K		L-M
+23		H-I		J-K		L-M
+24		H-I		J-K		L-M
+25		H-I		J-K		L-M
+30		H-I-J	K		L-M		P-Q
+43		U 
+44		U
+45		U
+.		.
+.		.
+.		.
+.		.
+.		.
+62		U
+67		p Date		Q Date
+
+86		H
+91		H
+96		H
+102		H
+
